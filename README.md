@@ -1,16 +1,15 @@
-## Hi there 👋
+# Débora Nieri
 
-<!--
-**nierid/nierid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Suporte de TI · OCP Brasil**<br>
+Service Desk · End User Computing · ITSM
 
-Here are some ideas to get you started:
+Atuo no time de TI da OCP Brasil com Service Desk, ITSM no Freshservice, Microsoft 365,
+Active Directory e gestão de ativos, com foco em automação de fluxos e documentação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ferramentas:** Freshservice · Microsoft 365 · Active Directory · Python · GitHub Actions
+
+**Precisa de suporte de TI?** Abra um chamado no portal do Freshservice da OCP Brasil.
+
+---
+
+**EN** — IT Support Analyst at OCP Brasil (Service Desk, End User Computing, ITSM).
